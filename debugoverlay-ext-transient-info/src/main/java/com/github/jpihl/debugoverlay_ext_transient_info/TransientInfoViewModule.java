@@ -1,4 +1,4 @@
-package com.jpihl.debugoverlay_ext_transient_info;
+package com.github.jpihl.debugoverlay_ext_transient_info;
 
 import android.support.annotation.ColorInt;
 import android.support.annotation.LayoutRes;
@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.github.jpihl.debugoverlay_ext_transient_info.R;
 import com.ms_square.debugoverlay.modules.BaseViewModule;
 
 import static android.view.View.GONE;

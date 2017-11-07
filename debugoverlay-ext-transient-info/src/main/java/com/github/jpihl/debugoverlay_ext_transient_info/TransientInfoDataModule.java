@@ -1,4 +1,4 @@
-package com.jpihl.debugoverlay_ext_transient_info;
+package com.github.jpihl.debugoverlay_ext_transient_info;
 
 import android.os.Handler;
 import android.os.Looper;

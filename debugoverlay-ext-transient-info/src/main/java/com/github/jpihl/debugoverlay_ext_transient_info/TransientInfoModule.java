@@ -1,7 +1,8 @@
-package com.jpihl.debugoverlay_ext_transient_info;
+package com.github.jpihl.debugoverlay_ext_transient_info;
 
 import android.util.Log;
 
+import com.github.jpihl.debugoverlay_ext_transient_info.R;
 import com.ms_square.debugoverlay.OverlayModule;
 
 import java.util.HashMap;
