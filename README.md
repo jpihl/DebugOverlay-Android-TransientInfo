@@ -10,7 +10,7 @@ library for Android. It allows custom data to be added and remove from the
 overlay while the application is running. This is useful when certain types of
 information is only relevant or available in specific parts of the application.
 
-<img src="art/overlay_with_transient_info_module_small.png" width="50%" alt="DebugOverlay Screen Capture">
+<img src="art/overlay_with_transient_info_module_small.gif" width="50%" alt="DebugOverlay Screen Capture">
 
 Requirements
 ------------
@@ -107,4 +107,4 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 
-[1]: https://github.com/Manabu-GT/DebugOverlay-Android/blob/master
+[1]: https://github.com/Manabu-GT/DebugOverlay-Android
