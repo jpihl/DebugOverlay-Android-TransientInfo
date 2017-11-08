@@ -1,6 +1,5 @@
 DebugOverlay-Android-TransientInfo
 ==================================
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-DebugOverlay--Android--TransientInfo-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5516)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.jpihl/debugoverlay-ext-transient-info/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.jpihl/debugoverlay-ext-transient-info)
 [![Javadocs](http://www.javadoc.io/badge/com.github.jpihl/debugoverlay-ext-transient-info.svg)](http://www.javadoc.io/doc/com.github.jpihl/debugoverlay-ext-transient-info)
 [![API 16+](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
